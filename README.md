@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akhil10996
 - 👀 I’m interested in IOS and Machine Learning
-- 🌱 I’m currently learning IOS
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Machine learning projects
 - 📫 How to reach me - akhil10996@gmail.com
 
